@@ -8,6 +8,8 @@ gem 'sqlite3'
 gem 'tux'
 gem 'rake'
 gem 'require_all'
+gem 'shotgun'
+gem 'pry-byebug'
 
 group :test do
   gem 'rspec'
